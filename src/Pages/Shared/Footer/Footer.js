@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
 	return (
 		<div>
-			<div className="bg-gradient-to-r from-green-100 via-green-300 to-blue-200 mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4  py-12">
+			<div className="bg-gradient-to-r from-green-100 via-green-300 to-blue-200 mx-auto  xl:px-20 lg:px-12 sm:px-6 px-4  py-12">
 				<div className="flex flex-col items-center justify-center">
 					<div>
 						<span className="font-bold text-red-900"> Tech </span>
@@ -75,11 +75,11 @@ const Footer = () => {
 									width="22"
 									height="22"
 									viewBox="0 0 22 22"
-									stroke-width="1.5"
+									strokeWidth="1.5"
 									stroke="#2c3e50"
 									fill="none"
-									stroke-linecap="round"
-									stroke-linejoin="round">
+									strokeLinecap="round"
+									strokeLinejoin="round">
 									<path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
 								</svg>
 							</a>
@@ -88,15 +88,15 @@ const Footer = () => {
 							<a href="https://www.instagram.com" target="_blank">
 								<svg
 									xmlns="http://www.w3.org/2000/svg"
-									class="icon icon-tabler icon-tabler-brand-instagram"
+									className="icon icon-tabler icon-tabler-brand-instagram"
 									width="24"
 									height="24"
 									viewBox="0 0 24 24"
-									stroke-width="1.5"
+									strokeWidth="1.5"
 									stroke="#2c3e50"
 									fill="none"
-									stroke-linecap="round"
-									stroke-linejoin="round">
+									strokeLinecap="round"
+									strokeLinejoin="round">
 									<path stroke="none" d="M0 0h24v24H0z" fill="none" />
 									<rect x="4" y="4" width="16" height="16" rx="4" />
 									<circle cx="12" cy="12" r="3" />

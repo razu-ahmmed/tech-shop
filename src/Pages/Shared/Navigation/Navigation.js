@@ -56,7 +56,7 @@ const Navigation = () => {
 							</Link>
 						</li>
 						<div className="flex ml-4">
-							<button className="px-4  shadow-lg bg-gradient-to-r from-green-400 to-blue-500  py-2 rounded-lg hover:text-white">
+							<button className="px-2  shadow-lg bg-gradient-to-r from-green-400 to-blue-500  py-2 rounded-lg hover:text-white">
 								LogOut
 							</button>
 							<Link
